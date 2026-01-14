@@ -1,4 +1,5 @@
 # ust-deep-learning-2026
 Repository for Deep Learning class.
 
+## Link: 
 https://colab.research.google.com/drive/1tcN2puzqOjS162-Ep8YdJRdkrL28m4SE?usp=sharing
